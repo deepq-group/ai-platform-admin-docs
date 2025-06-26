@@ -20,4 +20,5 @@
   * [7.2 Change Log](7-faq/7.2-change-log/README.md)
     * [V2.0](7-faq/7.2-change-log/v2.0.md)
     * [V2.1](7-faq/7.2-change-log/v2.0-1.md)
+    * [V2.1](7-faq/7.2-change-log/v2.0-2.md)
 * [8. Legal Documents](legal-documents.md)
